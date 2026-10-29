@@ -10,9 +10,18 @@
 
 <p align="center">
   <a href="https://suleimanbioinformatics.github.io/"><img src="https://img.shields.io/badge/Web_Portal-suleimanbioinformatics.github.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/></a>
-  <a href="https://github.com/SuleimanBioinformatics/SuleimanBioinformatics"><img src="https://img.shields.io/badge/Core_Hub-SuleimanBioinformatics-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Core Hub"/></a>
-  <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-IMBB_Azerbaijan-7209b7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+  <a href="mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanBioinformatics%20Private%20Data"><img src="https://img.shields.io/badge/Core_Data_&_Backend-PRIVATE_(Request_Access)-f43f5e?style=for-the-badge&logo=github&logoColor=white" alt="Private Core Hub"/></a>
+  <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Email-suleyman.hacizade1%40gmail.com-7209b7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
+
+---
+
+> [!IMPORTANT]
+> ### 🔒 Data Privacy & Access Request Notice / Məlumatlara Giriş Bildirişi
+> - **EN:** The core datasets, backend algorithmic pipelines, 30-module Biopython codebase, Cambridge ML implementations, and the 76-page Obsidian LLM Wiki Vault ([`SuleimanBioinformatics/SuleimanBioinformatics`](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics)) are hosted in a **Private Repository** to protect proprietary research data and ongoing academic work.  
+>   👉 **If you would like to request access** for research, academic review, or collaboration, please send an email to: **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanBioinformatics%20Private%20Repository)**
+> - **AZ:** Bu təşkilatın əsas məlumat bazası (dataları), arxa plan (backend) alqoritmik boru xətləri, kod bazası və elmi araşdırma qovluğu ([`SuleimanBioinformatics/SuleimanBioinformatics`](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics)) **qapalıdır (Private)**.  
+>   👉 **Əgər giriş (access) əldə etmək istəyirsinizsə**, elektron poçt vasitəsilə müraciət edə bilərsiniz: **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanBioinformatics%20Private%20Repository)**
 
 ---
 
@@ -37,26 +46,27 @@ We bridge theoretical rigor from **Cambridge University's Mathematics of Machine
 
 ---
 
-### 2. 🧬 [SuleimanBioinformatics](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics)
-> **The Core Backend Hub, Datasets, Algorithmic Starter Kits & Knowledge Graph**
+### 2. 🔒 [SuleimanBioinformatics](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics) *(Private Repository)*
+> **The Core Backend Hub, Datasets, Algorithmic Starter Kits & Knowledge Graph**  
+> 📩 **Access Status:** **Private** — *Datalar və backend kod bazası qapalıdır. Giriş (access) almaq üçün müraciət edin / To request access, contact:* **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanBioinformatics%20Private%20Repository)**
 
 * **30-Module Biopython Curriculum:** Systematic roadmap from `Bio.Seq` operations, remote NCBI Entrez queries, Multiple Sequence Alignment (MSA), to `Bio.PDB` macromolecular structures.
 * **Cambridge ML Mathematics Series:** Lecture notes, mathematical proofs, and R implementations covering regularized estimation ($L_1$ vs. $L_2$), bias-variance tradeoff, AdaBoost, and gradient boosting trees.
 * **Computational Biophysics:** Agent-based ecosystem simulations (WaTor), predator-prey dynamics, and cellular automata.
 * **Algorithmic Starter Kits:** Python production scripts for GC-skew windowing, Kyte-Doolittle profiles, and AlphaFold PDB coordinate & Miyazawa-Jernigan contact energy parsing.
-* **Obsidian LLM Wiki Vault:** 50+ interlinked dossiers connecting concepts (DESeq2, ChIP-Seq, Kaplan-Meier, CUB), tools (BLAST, Nextflow), and benchmark targets.
+* **Obsidian LLM Wiki Vault:** 76 interlinked dossiers connecting concepts (DESeq2, ChIP-Seq, Kaplan-Meier, CUB), tools (BLAST, Nextflow), and benchmark targets.
 
 ---
 
 ## 🌐 Extended Research Ecosystem
 
-| Repository | Focus Area | Technologies |
-|---|---|---|
-| [**SuleimanBioinformatics.github.io**](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics.github.io) | Frontend Web Portal & In-Browser Tools | JavaScript · WebGL / Canvas · SVG · CSS3 |
-| [**SuleimanBioinformatics**](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics) | Core Data, Backend Pipelines & Curricula | Python · R · Biopython · Obsidian |
-| [**Bioinformatics-analysis**](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) | Transcriptomic Oncogenomics & Clinical ML | RNA-seq · DESeq2 · TNBC Biomarkers |
-| [**computational-structural-biology**](https://github.com/SuleimanHajizadeh/computational-structural-biology) | 3D Structural Biology & Kinase Modeling | AlphaFold · PyMOL · Molecular Docking |
-| [**MEGA-Software-Genetics**](https://github.com/SuleimanHajizadeh/MEGA-Software-Molecular-Evolutionary-Genetics-Analysis) | Molecular Evolutionary Genetics Analysis | MEGA · Phylogenetics · COL1A1 Alignment |
+| Repository | Access | Focus Area | Technologies |
+|---|---|---|---|
+| [**SuleimanBioinformatics.github.io**](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics.github.io) | 🌐 Public | Frontend Web Portal & In-Browser Tools | JavaScript · WebGL / Canvas · SVG · CSS3 |
+| [**SuleimanBioinformatics**](https://github.com/SuleimanBioinformatics/SuleimanBioinformatics) | 🔒 **Private** ([Request Access](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanBioinformatics)) | Core Data, Backend Pipelines & Curricula | Python · R · Biopython · Obsidian |
+| [**Bioinformatics-analysis**](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) | 🌐 Public | Transcriptomic Oncogenomics & Clinical ML | RNA-seq · DESeq2 · TNBC Biomarkers |
+| [**computational-structural-biology**](https://github.com/SuleimanHajizadeh/computational-structural-biology) | 🌐 Public | 3D Structural Biology & Kinase Modeling | AlphaFold · PyMOL · Molecular Docking |
+| [**MEGA-Software-Genetics**](https://github.com/SuleimanHajizadeh/MEGA-Software-Molecular-Evolutionary-Genetics-Analysis) | 🌐 Public | Molecular Evolutionary Genetics Analysis | MEGA · Phylogenetics · COL1A1 Alignment |
 
 ---
 
