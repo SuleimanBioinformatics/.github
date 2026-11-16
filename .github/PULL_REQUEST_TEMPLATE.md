@@ -4,13 +4,13 @@ Please include a summary of the change and which issue is fixed or which module 
 ## Type of Change
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature / computational pipeline
-- [ ] Documentation / LLM Wiki compilation
+- [ ] Documentation / research notes update
 - [ ] Curriculum homework / lab enhancement
 
 ## Verification & Testing
 Please describe the tests that you ran to verify your changes:
 - [ ] Executed `pytest` or CLI verification
-- [ ] Ran LLM Wiki lint script (zero orphan pages, valid wikilinks)
+- [ ] Ran documentation integrity audit (zero broken links, complete catalog)
 - [ ] Tested on sample data (`tnbc_sample.fasta`, `1coh.pdb`)
 
 ## Checklist:
